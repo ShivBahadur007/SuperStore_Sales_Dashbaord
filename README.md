@@ -20,7 +20,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 - **Product Analysis**: Identify top-selling categories and sub-categories
 - **Interactive Filters**: Slicers for Year, Region, Segment, and Category
 - **Dark Theme UI**: Clean, modern interface for better readability
-## 6. Dashoard Preview
-![Sales Dashboard](SuperStore_Sales_Dashboard.png)
+## 6. Dashboard Preview
+![Sales Dashboard](SupeStore_Sales_Dashboard.png)
 ## 7. Forecasting Page
 ![Sales Forecast](SuperStore_Sales_Forecast.png)
